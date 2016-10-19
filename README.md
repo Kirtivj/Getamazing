@@ -1,0 +1,2 @@
+# Getamazing
+about languages descriptor
